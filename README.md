@@ -41,9 +41,9 @@ I'm developing a sophisticated **Full-Stack Application** designed for end-to-en
 ---
 
 ### 🏆 Certifications & Highlights
-    ☁️ **Microsoft Certified:** Azure AI Fundamentals (AI-900).<br/>
-    🧪 **Quality Focused:** Deep experience in **Cypress, pytest, and Selenium** to ensure software reliability.<br/>
-    🎨 **Creative Roots:** I bring a design-thinking approach to technical architecture.<br/>
+   * **Microsoft Certified:** Azure AI Fundamentals (AI-900).<br/>
+   * **Quality Focused:** Deep experience in **Cypress, pytest, and Selenium** to ensure software reliability.<br/>
+   * **Creative Roots:** I bring a design-thinking approach to technical architecture.<br/>
 
 ---
 
