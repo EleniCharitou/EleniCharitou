@@ -8,7 +8,8 @@ I am a Master of Engineering graduate based in Brussels, passionate about turnin
 ### 🚀 Featured Project: The Travel Planner Ecosystem
 I'm developing a sophisticated **Full-Stack Application** designed for end-to-end trip management.
 * **The Vision:** A "lifecycle" tool moving from collaborative scheduling to localized digital journaling.
-* **The Tech Stack:** * **Frontend:** React & TypeScript + Tailwind CSS (Context API).
+* **The Tech Stack:**
+    * **Frontend:** React & TypeScript + Tailwind CSS (Context API).
     * **Backend:** Django REST Framework + PostgreSQL.
     * **DevOps & Quality:** GitHub Actions + SonarQube + Automated testing (pytest).
     * **Security:** JWT for stateless authentication and secure credential management.
@@ -40,9 +41,9 @@ I'm developing a sophisticated **Full-Stack Application** designed for end-to-en
 ---
 
 ### 🏆 Certifications & Highlights
-- ☁️ **Microsoft Certified:** Azure AI Fundamentals (AI-900).
-- 🧪 **Quality Focused:** Deep experience in **Cypress, pytest, and Selenium** to ensure software reliability.
-- 🎨 **Creative Roots:** I bring a design-thinking approach to technical architecture.
+    ☁️ **Microsoft Certified:** Azure AI Fundamentals (AI-900).<br/>
+    🧪 **Quality Focused:** Deep experience in **Cypress, pytest, and Selenium** to ensure software reliability.<br/>
+    🎨 **Creative Roots:** I bring a design-thinking approach to technical architecture.<br/>
 
 ---
 
